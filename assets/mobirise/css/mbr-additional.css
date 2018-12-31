@@ -1620,7 +1620,7 @@ body {
   z-index: auto;
 }
 .cid-rcEjfv9MoG {
-  padding-top: 90px;
+  padding-top: 20px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1630,7 +1630,6 @@ body {
 }
 @media (max-width: 991px) {
   .cid-rcEjfv9MoG .mbr-figure {
-    padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
@@ -1648,7 +1647,7 @@ body {
 }
 .cid-rcF4foZ8AB {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 20px;
   background-color: #c46cb2;
 }
 .cid-rcF4foZ8AB .mbr-section-subtitle {
