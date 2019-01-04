@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #149dcc !important;
+  background-color: #c46cb2 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -148,8 +148,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #c46cb2 !important;
+  border-color: #c46cb2 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -312,22 +312,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #c46cb2;
+  color: #c46cb2;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #c46cb2;
+  border-color: #c46cb2;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #c46cb2 !important;
+  border-color: #c46cb2 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -464,7 +464,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #149dcc !important;
+  color: #c46cb2 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -547,8 +547,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #c46cb2;
+  border-color: #c46cb2;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -565,7 +565,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #149dcc;
+  color: #c46cb2;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -689,7 +689,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #149dcc;
+  border-color: #c46cb2;
   border-width: 3px;
 }
 ul,
@@ -778,7 +778,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #149dcc;
+  border-color: #c46cb2;
   color: #232323;
   cursor: pointer;
 }
@@ -789,7 +789,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #149dcc;
+  background: #c46cb2;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -797,11 +797,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #149dcc;
+  background: #c46cb2;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #149dcc;
+  color: #c46cb2;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -2104,7 +2104,7 @@ body {
 }
 .cid-rcFClJL0Cu .mbr-iconfont {
   font-size: 80px;
-  color: #149dcc;
+  color: #c46cb2;
 }
 .cid-rcFClJL0Cu .cards-container {
   display: flex;
@@ -2343,4 +2343,149 @@ body {
   padding-top: 15px;
   padding-bottom: 30px;
   background-color: #232323;
+}
+.cid-re9ZD479Xi {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-re9ZD479Xi p {
+  color: #767676;
+}
+.cid-re9ZD479Xi .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-re9ZD479Xi .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-re9ZD479Xi .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-re9ZD479Xi .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-re9ZD479Xi .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-re9ZD479Xi .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-reafUori4P {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-reafUori4P .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-reafUori4P .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-reafUori4P .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-reafUori4P .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-reafUori4P .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-reafUori4P .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-reafUori4P .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-reafUori4P .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-reafUori4P .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-reaNTxPJPm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-item.open .nav-link:focus,
+.cid-reaNTxPJPm .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-reaNTxPJPm .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-item {
+  padding: .5rem;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-link {
+  color: #c46cb2;
+  font-style: normal;
+  font-weight: 500;
+  border: 1px solid #c46cb2;
+  transition: all .5s;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-link:hover {
+  cursor: pointer;
+  background-color: #c46cb2;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background-color: #c46cb2;
+  border-color: #c46cb2;
+}
+.cid-reaNTxPJPm .nav-tabs .nav-link.active:hover {
+  background-color: #c46cb2;
+}
+.cid-reaNTxPJPm p {
+  color: #ffffff;
+}
+.cid-reaNTxPJPm .mbr-text {
+  text-align: center;
 }
