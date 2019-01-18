@@ -44,8 +44,8 @@
   .close {
     color: white;
     float: right;
-    font-size: 50px;
-    font-weight: bold;
+    font-size: 20px;
+    font-weight : 400
   }
   
   .close:hover,
@@ -56,9 +56,7 @@
   }
   
   .modal-header {
-    padding: 8px 16px;
-    float: initial;
-    background-color: #C46CB2;
+    background-color: #710d5d;
     color: grey;
   }
   
@@ -69,7 +67,7 @@
   }
   
   .thanks{
-    background: #C46CB2;
+    background: #710d5d;
     color: white;
     padding: 5px;
     font-size: 28px;
