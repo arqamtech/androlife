@@ -2463,25 +2463,26 @@ body {
   padding: .5rem;
 }
 .cid-reaNTxPJPm .nav-tabs .nav-link {
-  color: #c46cb2;
+  color: #710d5d;
   font-style: normal;
   font-weight: 500;
-  border: 1px solid #c46cb2;
+  border: 1px solid #710d5d;
   transition: all .5s;
 }
 .cid-reaNTxPJPm .nav-tabs .nav-link:hover {
   cursor: pointer;
-  background-color: #c46cb2;
+  color: #ffffff;
+  background-color: #710d5d;
 }
 .cid-reaNTxPJPm .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
-  background-color: #c46cb2;
-  border-color: #c46cb2;
+  background-color: #710d5d;
+  border-color: #710d5d;
 }
 .cid-reaNTxPJPm .nav-tabs .nav-link.active:hover {
-  background-color: #c46cb2;
+  background-color: #710d5d;
 }
 .cid-reaNTxPJPm p {
   color: #ffffff;
@@ -2489,6 +2490,58 @@ body {
 .cid-reaNTxPJPm .mbr-text {
   text-align: center;
 }
+/* homepage icons */
+
+.hmIcons {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hmIcons .nav-tabs .nav-item.open .nav-link:focus,
+.hmIcons .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.hmIcons .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.hmIcons .nav-tabs .nav-item {
+  padding: 1rem;
+  margin: 0.6rem;
+}
+.hmIcons .nav-tabs .nav-link {
+  color: #710d5d;
+  font-style: normal;
+  font-weight: 400 !important;
+  border: 2px solid #710d5d;
+  transition: all .5s;
+}
+.hmIcons .nav-tabs .nav-link:hover {
+  cursor: pointer;
+  background-color: #710d5d;
+}
+.hmIcons .nav-tabs .nav-link.active {
+  font-weight: 400;
+  color: #ffffff;
+  font-style: normal;
+  background-color: rgba(228, 66, 197, 0);
+  border-color: 1px solid #710d5d;
+}
+.hmIcons .nav-tabs .nav-link.active:hover {
+  background-color: #710d5d;
+}
+.hmIcons p {
+  color: #ffffff;
+}
+.hmIcons .mbr-text {
+  text-align: center;
+}
+/*Homepage icons end */
+
+
+
 .drop-arr{
   border: solid #710d5d;
   border-width: 0 2px 2px 0;
@@ -2509,7 +2562,7 @@ body {
 }
 .imgBorder{
   margin: 5px;
-  width: 85%;
+  width: 35%;
   height: auto;
   border: 2px solid #710d5d;
   border-radius: 50%;
