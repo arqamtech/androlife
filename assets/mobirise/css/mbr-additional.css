@@ -2508,8 +2508,6 @@ body {
   border-bottom: none;
 }
 .hmIcons .nav-tabs .nav-item {
-  padding: 1rem;
-  margin: 0.6rem;
 }
 .hmIcons .nav-tabs .nav-link {
   color: #710d5d;
@@ -2574,3 +2572,25 @@ body {
 .pinkBg{
     background-image: linear-gradient(to right top, #c46cb2, #b772c2, #a67ad1, #8f82de, #728ae8);
     }
+    .cid-rfYddRdPao {
+      padding-top: 90px;
+      padding-bottom: 90px;
+      background-color: #f9f9f9;
+    }
+    .cid-rfYddRdPao h4 {
+      font-weight: 500;
+      margin-bottom: 0;
+      text-align: left;
+    }
+    .cid-rfYddRdPao p {
+      color: #767676;
+      text-align: left;
+    }
+    .cid-rfYddRdPao .card-box {
+      padding-top: 2rem;
+      align-items: center;
+    }
+    .cid-rfYddRdPao .card-wrapper {
+      height: 100%;
+    }
+    
